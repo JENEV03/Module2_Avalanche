@@ -1,9 +1,5 @@
 # Module2_Avalanche
 
-Sure, here's a basic README.md file for your React component:
-
----
-
 # Metacrafters ATM
 
 ## Overview
@@ -69,4 +65,9 @@ To run this project locally, you'll need:
 - ethers.js
 - MetaMask
 
-## Acknowledgments
+## Deployment / Contributor
+
+The contract has been deployed on the Avalanche network with the following parameters:
+
+- **Contact Name:** Jenevive Geralin [JENEV03]
+- **Owner Address:** [8211907@ntc.edu.ph]
